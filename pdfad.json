@@ -4,5 +4,6 @@
   "interval":120,
   "open":"",
   "splash":"",
-  "ads":false
+  "ads":false,
+  "rate":false
 }
